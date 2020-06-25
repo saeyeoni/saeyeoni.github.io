@@ -1,6 +1,5 @@
 ---
 title: "github.io 블로그 시작하기"
-#excerpt: "새로 공부하고 익히는 것들을 기록하기 위해 github.io 블로그를 시작하기로했다."
 categories: Blogging
 tags: Blog github
 ---
