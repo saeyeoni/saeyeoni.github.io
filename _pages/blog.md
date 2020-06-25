@@ -1,9 +1,9 @@
 ---
 title: "git 블로그"
-permalink: /categories/Blogging/
+permalink: /categories/blogging/
 layout: category
 author_profile: true
-taxonomy: Blogging
+taxonomy: blogging
 ---
 
 카테고리 목록은 Blogging

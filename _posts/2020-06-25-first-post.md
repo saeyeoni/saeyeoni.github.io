@@ -1,7 +1,7 @@
 ---
 title: "github.io 블로그 시작하기"
-categories: Blogging
-tags: Blog github
+categories: blogging
+tags: blog github
 ---
 이것저것 경험하며 보고 배우고, 깨달은 것을 기록하고 싶은 6개월차 막냉이개발자의 블로그 시작일기
 
