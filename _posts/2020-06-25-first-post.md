@@ -1,7 +1,7 @@
 ---
 title: "github.io 블로그 시작하기"
 #excerpt: "새로 공부하고 익히는 것들을 기록하기 위해 github.io 블로그를 시작하기로했다."
-categories: Blog
+categories: Blogging
 tags: Blog github
 ---
 이것저것 경험하며 보고 배우고, 깨달은 것을 기록하고 싶은 6개월차 막냉이개발자의 블로그 시작일기
