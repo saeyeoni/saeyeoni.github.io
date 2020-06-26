@@ -1,6 +1,6 @@
 ---
 title: "[GitHub 블로그 만들기] 1. Github Pages 생성하기 "
-categories: github 블로그 만들기
+categories: github블로그만들기
 tags: blog github
 toc: true
 toc_lavel: "목차"
