@@ -8,7 +8,7 @@ toc_lavel: "목차"
 
 # Repository 생성
 ---
-![이미지](https://raw.githubusercontent.com/saeyeoni/saeyeoni.github.io/master/_images/start-git-pages-1.png "repo")
+![이미지](https://githubusercontent.com/saeyeoni/saeyeoni.github.io/master/_images/start-git-pages-1.png "repo")
 
 _이미 유저이름으로된 repository를 생성했기 때문에 빨간색으로 나타난다._
 
