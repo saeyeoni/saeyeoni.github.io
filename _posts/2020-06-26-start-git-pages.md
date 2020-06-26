@@ -8,7 +8,7 @@ toc_lavel: "목차"
 
 # Repository 생성
 ---
-![이미지](https://githubusercontent.com/saeyeoni/saeyeoni.github.io/master/_images/start-git-pages-1.png "repo")
+![이미지](https://github.com/saeyeoni/saeyeoni.github.io/blob/master/_images/start-git-pages-1.png?raw=true "repo")
 
 _이미 유저이름으로된 repository를 생성했기 때문에 빨간색으로 나타난다._
 
@@ -20,12 +20,12 @@ private으로도 git page를 생성할 방법은 있다. github pro를 사용하
 # GitHub Pages 확인
 ---
 repository 생성후 settings 메뉴로 이동한다.
-![이미지](../_images/start-git-pages-2.png "setting")
+![이미지](https://github.com/saeyeoni/saeyeoni.github.io/blob/master/_images/start-git-pages-2.png?raw=true "setting")
 
 쭉 내리다보면 GitHub Pages가 초록색으로 활성화 되어있고 아래 경로로 접속 할 수 있다.
 
 
-![이미지](../_images/start-git-pages-3.png "githun_pages")
+![이미지](https://github.com/saeyeoni/saeyeoni.github.io/blob/master/_images/start-git-pages-3.png?raw=true "githun_pages")
 
 아주간단하게 git블로그를 만드는 방법을 포스팅했다.  
 다음으로는 GitHub Pages에 jekyll를 올려보겠다.
