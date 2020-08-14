@@ -23,7 +23,7 @@ C,C++,JAVA,PHP 등 지금까지 접한 언어는 `{ }`과 `;`으로 구분짓는
 먼저 에러가 난 코드부터 보자
 ![이미지](https://github.com/saeyeoni/saeyeoni.github.io/blob/master/_images/indentation_error.png?raw=true "repo")
 
-unindent does not match any outer indentation level에러가 발생했다. 보면 파란색 블럭만큼 위의 단락보다 안으로 더 들어와저있다.
+unindent does not match any outer indentation level에러가 발생했다. 보면 파란색 블럭만큼 위의 단락보다 안으로 더 들어와저있다.  
  위의 if문과 elif문은 같은 레벨의 제어문임으로 같은 정도의 들여쓰기를 해주어야 한다.   
 
 ### 들여쓰기 방법
