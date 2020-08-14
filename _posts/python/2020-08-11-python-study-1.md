@@ -1,5 +1,5 @@
 ---
-title: "[pyton] 들여쓰기 오류(unindent does not match any outer indentation level)"
+title: "[python] 들여쓰기 오류(unindent does not match any outer indentation level)"
 categories: python
 tags: python
 toc: true
