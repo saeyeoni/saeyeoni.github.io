@@ -20,7 +20,9 @@ yum update
 //의존성 설치
 yum install libjpeg* libpng* freetype* gd-* gcc gcc-c++ gdbm-devel libtermcap-devel
 yum -y install make pcre-devel
-```
+```  
+
+
 
 # Apache 설치
 ----
@@ -159,7 +161,10 @@ OpenSSL 1.0.2k-fips  26 Jan 2017
 
 /usr/local/ssl/bin/openssl version
 OpenSSL 1.1.1b  26 Feb 2019
-```
+```  
+
+
+
 # MairaDB 설치
 ---
 yum을 이용해 저장소를 직접만들고 원하는 버전의 mariadb를 설치할것이다.
@@ -223,9 +228,10 @@ FLUSH PRIVILEGES ;
 완료 후 서비스 재실행
 ```
 systemctl mysql restart
-```
+```  
 
 
+    
 # PHP설치
 ---
 사전 패키지 설치
@@ -292,5 +298,7 @@ AddType application/x-gzip .gz .tgz
 systemctl stop httpd
 systemctl start httpd
 ```
+
+
 참고문헌  
 [순백염소](https://blanche-star.tistory.com/entry/CentOS-7-APM-%EC%84%A4%EC%B9%98-Apache-%EC%84%A4%EC%B9%98%EC%BB%B4%ED%8C%8C%EC%9D%BC%EC%84%A4%EC%B9%98%EC%9E%91%EC%84%B1%EC%A4%91)
